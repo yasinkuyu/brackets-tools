@@ -1,0 +1,12 @@
+{
+    "name": "insya.tools",
+    "title": "Brackets Tools",
+    "description": "Brackets developer tools",
+    "homepage": "https://github.com/yasinkuyu/brackets-tools",
+    "version": "0.0.2",
+    "author": "Yasin Kuyu <yasinkuyu@gmail.com>",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
