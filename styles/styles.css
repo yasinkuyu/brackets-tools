@@ -1,3 +1,11 @@
 /* 
  * Place CSS here
  */
+
+/* If it looks dark if your theme remove the comment line. */
+
+/*
+.CodeMirror span.cm-matchhighlight{
+	color: #fff !important;
+}
+*/

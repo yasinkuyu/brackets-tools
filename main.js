@@ -42,7 +42,7 @@ define(function (require, exports, module) {
     /* Extension's preferences */
     var prefs = PreferencesManager.getExtensionPrefs(moduleName);
 
-    // ExtensionUtils.loadStyleSheet(module, "styles/styles.css");
+    ExtensionUtils.loadStyleSheet(module, "styles/styles.css");
     // More tools coming soon...
     
 });
