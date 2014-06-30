@@ -1,21 +1,26 @@
 brackets-tools
 ==============
 
-Adobe Brackets developer tools
+Adobe Brackets developer tools extension.
 
-- Highlight Word Selection 
+- Highlight Word Selection -> View menu (on/off)
 - New Html5 Template 
 - Remove Empty Lines
 - Remove Break Lines
 - Remove Leading New Lines
+
 - To Upper Case
 - To Lower Case
 - To Title Case
+
 - Html Encode
 - Html Docode
 - URL Encode
 - Url Decode
- 
+
+- Remove line numbers
+- Remove duplicate lines
+
 more tools coming soon...
 
 Highlight Selection Sample (click word and ALT+F3)

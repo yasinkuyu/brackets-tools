@@ -25,11 +25,13 @@ define({
     "STRING_REMOVE_EMPTY_LINES"        : "Remove empty lines",
     "STRING_REMOVE_BREAK_LINES"        : "Remove break lines",
     "STRING_REMOVE_LEADING_NEW_LINES"  : "Remove leading new lines",    
+    "STRING_REMOVE_LINE_NUMBERS"       : "Remove line numbers",
+    "STRING_REMOVE_DUPLICATE_LINES"    : "Remove duplicate lines",
     "STRING_UPPERCASE"                 : "To Upper Case",
     "STRING_LOWERCASE"                 : "To Lower Case",
     "STRING_TITLECASE"                 : "To Title Case",
-    "STRING_HTML_ENCODE"               : "HTML Entity Encode",
-    "STRING_HTML_DECODE"               : "HTML Entity Decode", 
-    "STRING_ENCODE_URI"                : "Encode URI Component", 
-    "STRING_DECODE_URI"                : "Decode URI Component"
+    "STRING_HTML_ENCODE"               : "HTML Encode",
+    "STRING_HTML_DECODE"               : "HTML Decode", 
+    "STRING_ENCODE_URI"                : "URL Encode", 
+    "STRING_DECODE_URI"                : "URL Decode"
 });

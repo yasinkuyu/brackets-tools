@@ -25,6 +25,8 @@ define({
     "STRING_REMOVE_EMPTY_LINES"        : "Boş satırları temizle",
     "STRING_REMOVE_BREAK_LINES"        : "Satır boşlularını temizle",
     "STRING_REMOVE_LEADING_NEW_LINES"  : "Satır başını temizle",    
+    "STRING_REMOVE_LINE_NUMBERS"       : "Satır numaralarını sil",
+    "STRING_REMOVE_DUPLICATE_LINES"    : "Benzer satırları sil",
     "STRING_UPPERCASE"                 : "Büyük harf yap",
     "STRING_LOWERCASE"                 : "Küçük harf yap",
     "STRING_TITLECASE"                 : "Başlık yap",    

@@ -1,9 +1,9 @@
 {
     "name": "insya.tools",
     "title": "Brackets Tools",
-    "description": "Brackets developer tools",
+    "description": "Brackets developer tools (- Html, Url, Decode/Encode. - Remove empty, break, leading new lines. - Remove duplicate lines. - Remove line numbers. -  Word Highlight. - Html5 Template. ",
     "homepage": "https://github.com/yasinkuyu/brackets-tools",
-    "version": "0.0.2",
+    "version": "0.0.5",
     "author": "Yasin Kuyu <yasinkuyu@gmail.com>",
     "license": "MIT",
     "engines": {
