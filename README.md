@@ -5,9 +5,10 @@ Adobe Brackets developer tools extension.
 #Installation
 * Method 1: Open the Brackets Extension Manager and search for `brackets tools`
 * Method 2: Download directly from GitHub using either the latest release and install the contents to `extensions/user/brackets-tools` folder.
-	
+
+#Features	
 	- Highlight Word Selection -> View menu (on/off)
-	- New Html5 Template 
+	- New Html5 Template -> File Html5
 	- Remove Empty Lines
 	- Remove Break Lines
 	- Remove Leading New Lines
@@ -23,8 +24,10 @@ Adobe Brackets developer tools extension.
 	- more tools coming soon...
 
 #Usage
-Highlight Selection Sample (click word and ALT+F3)
+All page or by selecting a specific area can use the features ...
 
+#Screenshot
+Highlight Selection Sample (click word and ALT+F3)
 ![Highlight Selection Sample](http://i58.tinypic.com/2hz1i87.gif)
 
 ![Highlight Selection Menu](http://i61.tinypic.com/243f6lh.png)
@@ -34,5 +37,5 @@ Highlight Selection Sample (click word and ALT+F3)
 #License
 The MIT License
 
-Created 2014 @yasinkuyu
+Created 2014 [@yasinkuyu](http://www.twitter.com/yasinkuyu)
 
