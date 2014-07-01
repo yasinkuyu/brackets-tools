@@ -13,7 +13,7 @@
  *
  */
 
-// English - root strings
+// Italian Translation @Denisov21
 
 /*jslint vars: true, plusplus: true, devel: true, nomen: true, indent: 4, maxerr: 50 */
 /*global define */
@@ -33,5 +33,13 @@ define({
     "STRING_HTML_ENCODE"               : "Codifica HTML",
     "STRING_HTML_DECODE"               : "Decodifica HTML", 
     "STRING_ENCODE_URI"                : "Codifica URL", 
-    "STRING_DECODE_URI"                : "Decodifica URL"
+    "STRING_DECODE_URI"                : "Decodifica URL",
+    "STRING_TRIM"                      : "Trim",
+    "STRING_LTRIM"                     : "Left Trim",
+    "STRING_RTRIM"                     : "Right Trim",
+    "STRING_FxCHAR_REMOVE"             : "First x Char Remove",
+    "STRING_LxCHAR_REMOVE"             : "Last x Char Remove",
+    "STRING_SEO_URL"                   : "To SEO URL",
+    "INPUT_TITLE"                      : "Remove Char",
+    "INPUT_TEXT"                       : "Enter the number of characters you want to remove."
 });

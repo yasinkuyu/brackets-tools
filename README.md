@@ -7,8 +7,9 @@ Adobe Brackets developer tools extension.
 * Method 2: Download directly from GitHub using either the latest release and install the contents to `extensions/user/brackets-tools` folder.
 
 #Features	
-	- Highlight Word Selection -> View menu (on/off)
-	- New Html5 Template -> File Html5
+	- Highlight Word Selection -> `View menu (on/off)`
+	- New Html5 Template -> `File Html5`
+    - Multi `Localization`
 	- Remove Empty Lines
 	- Remove Break Lines
 	- Remove Leading New Lines
@@ -19,23 +20,40 @@ Adobe Brackets developer tools extension.
 	- Html Docode
 	- URL Encode
 	- Url Decode
+    - Trim 
+    - Left Trim
+    - Right Trim
+    - First x Char Remove (ex: first 5 char remove)
+    - Last x Char Remove 
+    - SEO Url
 	- Remove line numbers
 	- Remove duplicate lines
+    - Double click sidebar `new html5 file`
 	- more tools coming soon...
 
 #Usage
-All page or by selecting a specific area can use the features ...
+All page or by selecting a specific area can use the features...
 
 #Screenshot
-Highlight Selection Sample (click word and ALT+F3)
+Highlight Selection (click and ALT+F3)
 ![Highlight Selection Sample](http://i58.tinypic.com/2hz1i87.gif)
 
 ![Highlight Selection Menu](http://i61.tinypic.com/243f6lh.png)
 
 ![Html5 Template](http://i62.tinypic.com/fao7du.png)
 
+#Roadmap
+Planned features
+* Tools menu group items move to submenu. ![Trello #541](https://trello.com/c/EwLGRkYe/541-native-submenus)
+* More string tools
+* Color detect and lighten/darken value
+* Ctrl+click search on google
+
+#Contribution
+Fork & Pull Request
+
 #License
 The MIT License
 
-Created 2014 [@yasinkuyu](http://www.twitter.com/yasinkuyu)
+Created 2014 Yasin Kuyu - [@yasinkuyu](http://www.twitter.com/yasinkuyu)
 

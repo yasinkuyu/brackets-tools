@@ -39,6 +39,9 @@ define(function (require, exports, module) {
         menuId                      = "insya-menu",
         moduleName                  = "insya-module";
     
+    /* Cache our module info */
+    var _module = module;
+    
     /* Extension's preferences */
     var prefs = PreferencesManager.getExtensionPrefs(moduleName);
 

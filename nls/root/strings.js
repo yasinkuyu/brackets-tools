@@ -13,7 +13,7 @@
  *
  */
 
-// English - root strings
+// English default @yasinkuyu
 
 /*jslint vars: true, plusplus: true, devel: true, nomen: true, indent: 4, maxerr: 50 */
 /*global define */
@@ -33,5 +33,13 @@ define({
     "STRING_HTML_ENCODE"               : "HTML Encode",
     "STRING_HTML_DECODE"               : "HTML Decode", 
     "STRING_ENCODE_URI"                : "URL Encode", 
-    "STRING_DECODE_URI"                : "URL Decode"
+    "STRING_DECODE_URI"                : "URL Decode",
+    "STRING_TRIM"                      : "Trim",
+    "STRING_LTRIM"                     : "Left Trim",
+    "STRING_RTRIM"                     : "Right Trim",
+    "STRING_FxCHAR_REMOVE"             : "First x Char Remove",
+    "STRING_LxCHAR_REMOVE"             : "Last x Char Remove",
+    "STRING_SEO_URL"                   : "To SEO URL",
+    "INPUT_TITLE"                      : "Remove Char",
+    "INPUT_TEXT"                       : "Enter the number of characters you want to remove."
 });
