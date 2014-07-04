@@ -16,7 +16,7 @@ Adobe Brackets developer tools extension.
 	- To Lower Case
 	- To Title Case
     - Word To Array
-    - Word To List
+    - Word To List (ul li tag)
     - Line To List
 	- Html Encode
 	- Html Docode
@@ -45,7 +45,7 @@ Highlight Selection (click and ALT+F3)
 
 ![Html5 Template](http://i62.tinypic.com/fao7du.png)
 
-HTML Tag Strip 
+HTML Tag Strip
 ![HTML Tag Strip](http://i61.tinypic.com/vecgmc.gif)
 
 #Roadmap
