@@ -9,7 +9,7 @@ Adobe Brackets developer tools extension.
 #Features	
 	- Highlight Word Selection -> `View menu (on/off)`
 	- New Html5 Template -> `File Html5`
-    - Multi `Localization`
+    - Multi `Localization` (English, Turkish, Italian and more..)
 	- Remove Empty Lines
 	- Remove Break Lines
 	- To Upper Case

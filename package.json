@@ -1,12 +1,12 @@
 {
     "name": "insya.tools",
     "title": "Brackets Tools",
-    "description": "Brackets developer tools (- Html, Url, Decode/Encode. - HTML Tag Strip - Word, Line to Array or List, - Remove empty, blank, break lines. - Remove duplicate lines. - Remove line numbers. - Word Highlight. - Trim, Left, Right Trim. - First, Last x Char Remove. - To SEO Url. - Html5 Template.",
+    "description": "Brackets developer tools (- Html, Url, Decode/Encode. - HTML Tag Remove/Strip - Word, Line to Array or List, - Remove empty, blank, break lines. - Remove duplicate lines. - Remove line numbers. - Word Highlight. - Trim, Left, Right Trim. - First, Last x Char Remove. - To SEO Url. - Html5 Template.",
     "homepage": "https://github.com/yasinkuyu/brackets-tools",
-    "version": "0.0.9",
+    "version": "0.1.1",
     "author": "Yasin Kuyu <yasinkuyu@gmail.com>",
     "keywords": [
-       "word highlight", "seo url", "html decode/encode", "html tag strip", "url decode/encode", "remove empty, blank, break lines", "developer tools", "trim, ltrim, rtrim", "remove first, last", "html5 template"
+       "word highlight", "seo url", "html decode/encode", "html tag remove/strip", "url decode/encode", "remove empty, blank, break lines", "developer tools", "trim, ltrim, rtrim", "remove first, last", "html5 template"
     ],
     "license": "MIT",
     "engines": {

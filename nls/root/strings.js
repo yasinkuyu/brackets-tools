@@ -33,7 +33,7 @@ define({
     "STRING_HTML_DECODE"               : "HTML Decode", 
     "STRING_ENCODE_URI"                : "URL Encode", 
     "STRING_DECODE_URI"                : "URL Decode",
-    "STRING_HTML_TAG_STRIP"            : "HTML Tag Strip",
+    "STRING_HTML_TAG_STRIP"            : "HTML Tag Remove/Strip",
     "STRING_TRIM"                      : "Trim",
     "STRING_LTRIM"                     : "Left Trim",
     "STRING_RTRIM"                     : "Right Trim",
