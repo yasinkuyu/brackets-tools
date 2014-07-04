@@ -39,13 +39,19 @@ All page or by selecting a specific area can use the features...
 
 #Screencast
 Highlight Selection (click and ALT+F3)
-![Highlight Selection Sample](http://i57.tinypic.com/2nhnkmv.gif)
+
+![Highlight Selection Sample](http://i57.tinypic.com/vphnr4.gif)
+
+Array and 
+
+![Array and List](http://i60.tinypic.com/2f05e0g.jpg)
+
+Duplicate Remove
 
 ![Highlight Selection Menu](http://i61.tinypic.com/243f6lh.png)
 
-![Html5 Template](http://i62.tinypic.com/fao7du.png)
-
 HTML Tag Strip
+
 ![HTML Tag Strip](http://i61.tinypic.com/vecgmc.gif)
 
 #Roadmap
