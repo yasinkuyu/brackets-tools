@@ -1,11 +1,12 @@
 /* 
- * Place CSS here
+ * Base Styles
  */
 
-/* If it looks dark if your theme remove the comment line. */
-
-/*
-.CodeMirror span.cm-matchhighlight{
-	color: #fff !important;
+.autolink{
+    color: blue;
+    font-weight: bold;
 }
-*/
+    .autolink:hover{
+        color: red;
+        text-decoration: underline;
+    }

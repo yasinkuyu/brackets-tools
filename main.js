@@ -21,14 +21,7 @@ define(function (require, exports, module) {
     
     // Brackets modules
     var PreferencesManager          = brackets.getModule("preferences/PreferencesManager"),
-        Commands                    = brackets.getModule("command/Commands"),
-        CommandManager              = brackets.getModule("command/CommandManager"),
         ExtensionUtils              = brackets.getModule("utils/ExtensionUtils"),
-        Strings                     = brackets.getModule("strings"),
-        StringUtils                 = brackets.getModule("utils/StringUtils"),
-        Menus                       = brackets.getModule("command/Menus"),
-        DefaultDialogs              = brackets.getModule("widgets/DefaultDialogs"),
-        Dialogs                     = brackets.getModule("widgets/Dialogs"),
         wordHighlight               = require("lib/wordHighlight"),
         newDocument                 = require("lib/newDoc"),
         stringConvert               = require("lib/stringConvert"),
@@ -46,6 +39,7 @@ define(function (require, exports, module) {
     var prefs = PreferencesManager.getExtensionPrefs(moduleName);
 
     ExtensionUtils.loadStyleSheet(module, "styles/styles.css");
+    ExtensionUtils.loadStyleSheet(module, "styles/custom.css");
     // More tools coming soon...
     
 });

@@ -24,7 +24,6 @@ define({
     "VIEW_HIGHLIGHT"                   : "Evidenzia Parole Selezionate",
     "STRING_REMOVE_EMPTY_LINES"        : "Rimuovi righe vuote",
     "STRING_REMOVE_BREAK_LINES"        : "Rimuovere linee di interruzione",
-    "STRING_REMOVE_LEADING_NEW_LINES"  : "Rimuovi le prime nuove linee",    
     "STRING_REMOVE_LINE_NUMBERS"       : "Rimuovi numeri di riga",
     "STRING_REMOVE_DUPLICATE_LINES"    : "Rimuovi righe duplicate",
     "STRING_UPPERCASE"                 : "Maiuscolo",
@@ -34,6 +33,7 @@ define({
     "STRING_HTML_DECODE"               : "Decodifica HTML", 
     "STRING_ENCODE_URI"                : "Codifica URL", 
     "STRING_DECODE_URI"                : "Decodifica URL",
+    "STRING_HTML_TAG_STRIP"            : "HTML Tag Strip",
     "STRING_TRIM"                      : "Trim",
     "STRING_LTRIM"                     : "Left Trim",
     "STRING_RTRIM"                     : "Right Trim",
@@ -41,5 +41,6 @@ define({
     "STRING_LxCHAR_REMOVE"             : "Last x Char Remove",
     "STRING_SEO_URL"                   : "To SEO URL",
     "INPUT_TITLE"                      : "Remove Char",
-    "INPUT_TEXT"                       : "Enter the number of characters you want to remove."
+    "INPUT_TEXT"                       : "Enter the number of characters you want to remove.",
+    "SETTINGS"                         : "Settings"
 });

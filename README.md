@@ -12,7 +12,6 @@ Adobe Brackets developer tools extension.
     - Multi `Localization`
 	- Remove Empty Lines
 	- Remove Break Lines
-	- Remove Leading New Lines
 	- To Upper Case
 	- To Lower Case
 	- To Title Case
@@ -20,6 +19,7 @@ Adobe Brackets developer tools extension.
 	- Html Docode
 	- URL Encode
 	- Url Decode
+    - HTML Tag Strip
     - Trim 
     - Left Trim
     - Right Trim
@@ -34,7 +34,7 @@ Adobe Brackets developer tools extension.
 #Usage
 All page or by selecting a specific area can use the features...
 
-#Screenshot
+#Screencast
 Highlight Selection (click and ALT+F3)
 ![Highlight Selection Sample](http://i58.tinypic.com/2hz1i87.gif)
 
@@ -44,7 +44,7 @@ Highlight Selection (click and ALT+F3)
 
 #Roadmap
 Planned features
-* Tools menu group items move to submenu. ![Trello #541](https://trello.com/c/EwLGRkYe/541-native-submenus)
+* Tools menu group items move to submenu. [Trello #541](https://trello.com/c/EwLGRkYe/541-native-submenus)
 * More string tools
 * Color detect and lighten/darken value
 * Ctrl+click search on google

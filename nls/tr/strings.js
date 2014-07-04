@@ -24,7 +24,6 @@ define({
     "VIEW_HIGHLIGHT"                   : "Benzer kelimeleri renklendir",    
     "STRING_REMOVE_EMPTY_LINES"        : "Boş satırları temizle",
     "STRING_REMOVE_BREAK_LINES"        : "Satır boşlularını temizle",
-    "STRING_REMOVE_LEADING_NEW_LINES"  : "Satır başını temizle",    
     "STRING_REMOVE_LINE_NUMBERS"       : "Satır numaralarını sil",
     "STRING_REMOVE_DUPLICATE_LINES"    : "Benzer satırları sil",
     "STRING_UPPERCASE"                 : "Büyük harf yap",
@@ -34,6 +33,7 @@ define({
     "STRING_HTML_DECODE"               : "HTML Decode", 
     "STRING_ENCODE_URI"                : "URL Encode", 
     "STRING_DECODE_URI"                : "URL Decode",
+    "STRING_HTML_TAG_STRIP"            : "HTML Tag Strip",
     "STRING_TRIM"                      : "Trim",
     "STRING_LTRIM"                     : "Left Trim",
     "STRING_RTRIM"                     : "Right Trim",
@@ -41,5 +41,6 @@ define({
     "STRING_LxCHAR_REMOVE"             : "Last x Char Remove",
     "STRING_SEO_URL"                   : "To SEO URL",
     "INPUT_TITLE"                      : "Remove Char",
-    "INPUT_TEXT"                       : "Enter the number of characters you want to remove."
+    "INPUT_TEXT"                       : "Enter the number of characters you want to remove.",
+    "SETTINGS"                         : "Settings"
 });
