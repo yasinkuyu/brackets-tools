@@ -22,7 +22,7 @@ Adobe Brackets developer tools extension.
 	- Html Docode
 	- URL Encode
 	- Url Decode
-    - Html Tag Strip
+    - Html Tag Remove/Strip
     - Trim 
     - Left Trim
     - Right Trim
@@ -42,17 +42,26 @@ Highlight Selection (click and ALT+F3)
 
 ![Highlight Selection Sample](http://i57.tinypic.com/vphnr4.gif)
 
-Array and 
+Array and List (ul li)
 
 ![Array and List](http://i60.tinypic.com/2f05e0g.jpg)
 
 Duplicate Remove
 
-![Highlight Selection Menu](http://i61.tinypic.com/243f6lh.png)
+![Highlight Selection Menu](http://i59.tinypic.com/8xou8h.jpg)
 
-HTML Tag Strip
+HTML Tag Remove/Strip
 
-![HTML Tag Strip](http://i61.tinypic.com/vecgmc.gif)
+![HTML Tag Strip](http://i61.tinypic.com/1ptdvn.gif)
+
+SEO Url
+
+![SEO Url](http://i59.tinypic.com/25k1ukx.gif)
+
+Other Tools
+
+![Tools](http://i60.tinypic.com/21o60lk.png)
+
 
 #Roadmap
 Planned features
