@@ -15,11 +15,14 @@ Adobe Brackets developer tools extension.
 	- To Upper Case
 	- To Lower Case
 	- To Title Case
+    - Word To Array
+    - Word To List
+    - Line To List
 	- Html Encode
 	- Html Docode
 	- URL Encode
 	- Url Decode
-    - HTML Tag Strip
+    - Html Tag Strip
     - Trim 
     - Left Trim
     - Right Trim
@@ -36,11 +39,14 @@ All page or by selecting a specific area can use the features...
 
 #Screencast
 Highlight Selection (click and ALT+F3)
-![Highlight Selection Sample](http://i58.tinypic.com/2hz1i87.gif)
+![Highlight Selection Sample](http://i57.tinypic.com/2nhnkmv.gif)
 
 ![Highlight Selection Menu](http://i61.tinypic.com/243f6lh.png)
 
 ![Html5 Template](http://i62.tinypic.com/fao7du.png)
+
+HTML Tag Strip 
+![HTML Tag Strip](http://i61.tinypic.com/vecgmc.gif)
 
 #Roadmap
 Planned features

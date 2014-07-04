@@ -40,6 +40,9 @@ define({
     "STRING_FxCHAR_REMOVE"             : "First x Char Remove",
     "STRING_LxCHAR_REMOVE"             : "Last x Char Remove",
     "STRING_SEO_URL"                   : "To SEO URL",
+    "STRING_WORD_TO_ARRAY"             : "Word to array",
+    "STRING_WORD_TO_LIST"              : "Word to list",
+    "STRING_LINE_TO_LIST"              : "Line to list",
     "INPUT_TITLE"                      : "Remove Char",
     "INPUT_TEXT"                       : "Enter the number of characters you want to remove.",
     "SETTINGS"                         : "Settings"
