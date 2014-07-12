@@ -30,6 +30,7 @@ define(function (require, exports, module) {
     module.exports = {
         root: true,
         "tr": true,
-        "it": true
+        "it": true,
+        "de": true
     };
 });
