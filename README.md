@@ -9,7 +9,12 @@ Adobe Brackets developer tools extension.
 #Features	
 	- Highlight Word Selection -> `View menu (on/off)`
 	- New Html5 Template -> `File Html5`
-    - Multi `Localization` (English, Turkish, Italian and more..)
+    - Multi `Localization` 
+        Translations
+            -English
+            -Turkish
+            -Italian
+            -German
 	- Remove Empty Lines
 	- Remove Break Lines
 	- To Upper Case
@@ -75,6 +80,10 @@ Fork & Pull Request
 
 #License
 The MIT License
+
+Brackets Inline Units Conversion Extension (px to em /em to px etc.)
+
+https://github.com/yasinkuyu/brackets-units
 
 Created 2014 Yasin Kuyu - [@yasinkuyu](http://www.twitter.com/yasinkuyu)
 
