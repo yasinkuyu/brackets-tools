@@ -21,7 +21,7 @@
 define({
     "MENU_LABEL"                       : "Tools",
     "MENU_NEW_DOC"                     : "New Html5...",
-    "VIEW_HIGHLIGHT"                   : "Highlight Seledted Word",
+    "VIEW_HIGHLIGHT"                   : "Highlight Selected Word",
     "STRING_REMOVE_EMPTY_LINES"        : "Remove empty/blank lines",
     "STRING_REMOVE_BREAK_LINES"        : "Remove break lines",
     "STRING_REMOVE_LINE_NUMBERS"       : "Remove line numbers",
