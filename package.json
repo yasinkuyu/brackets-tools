@@ -3,13 +3,28 @@
     "title": "Brackets Tools",
     "description": "Brackets developer tools extension",
     "homepage": "https://github.com/yasinkuyu/brackets-tools",
+    "version": "0.1.3",
+	"author": {
+		"name": "Yasin Kuyu",
+		"email": "yasinkuyu@gmail.com",
+		"url": "https://github.com/yasinkuyu"
+    },
     "version": "0.1.4",
     "author": "Yasin Kuyu <yasinkuyu@gmail.com>",
     "keywords": [
-       "Highlight Word", "Html5 Template", "Localization", "Remove Empty / Break Lines", "To Upper / Lower / Title Case", "Word To Array", "Word To List", "Line To List", "Html Encode / Docode", "URL Encode / Decode", "Html Tag Remove/Strip", "Trim, Left Trim, Right Trim", "First, Last x Char Remove", "SEO Url", "Remove line numbers", "Remove duplicate lines"
+       "Highlight Word", "Html5 Template", "Remove Empty / Break Lines", "To Upper / Lower / Title Case", "Word To Array", "Word To List", "Line To List", "Html Encode / Docode", "URL Encode / Decode", "Html Tag Remove/Strip", "Trim, Left Trim, Right Trim", "First, Last x Char Remove", "SEO Url", "Remove line numbers", "Remove duplicate lines"
     ],
+    "categories": ["developer", "tools", "general", "editing"],
+    "dependencies": {
+        "child_process": "*"
+    },
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yasinkuyu/brackets-tools"
+	},
     "license": "MIT",
+	"i18n": ["en", "tr", "de", "it"],
     "engines": {
-        "brackets": ">=0.24.0"
+        "brackets": ">=0.40.0"
     }
 }
