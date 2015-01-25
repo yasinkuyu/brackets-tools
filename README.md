@@ -11,11 +11,12 @@ Adobe Brackets `developer tools` extension.
 	- New Html5 Template -> `File Html5`
     - Multi `Localization` 
         Translations
-            -English
-            -Turkish
-            -Italian
-            -German
-	    -Chinese
+		-English
+		-Turkish
+		-Italian
+		-German
+		-Chinese
+		-Portuguese
 	- Remove Empty Lines
 	- Remove Break Lines
 	- To Upper Case
