@@ -3,7 +3,7 @@
     "title": "Brackets Tools",
     "description": "Brackets developer tools extension",
     "homepage": "https://github.com/yasinkuyu/brackets-tools",
-    "version": "0.1.6",
+    "version": "0.1.7",
 	"author": {
 		"name": "Yasin Kuyu",
 		"email": "yasinkuyu@gmail.com",
@@ -22,7 +22,7 @@
 		"url": "https://github.com/yasinkuyu/brackets-tools"
 	},
     "license": "MIT",
-	"i18n": ["en", "tr", "de", "it", "zh"],
+	"i18n": ["en", "tr", "de", "it", "zh", "pt"],
     "engines": {
         "brackets": ">=0.40.0"
     }
