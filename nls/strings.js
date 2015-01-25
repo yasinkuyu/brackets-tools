@@ -32,6 +32,7 @@ define(function (require, exports, module) {
         'zh': true,
         "tr": true,
         "it": true,
+        "pt": true,
         "de": true
     };
 });
