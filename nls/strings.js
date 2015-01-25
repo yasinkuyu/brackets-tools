@@ -33,6 +33,7 @@ define(function (require, exports, module) {
         "tr": true,
         "it": true,
         "pt": true,
-        "de": true
+        "de": true,
+        "ru": true
     };
 });
