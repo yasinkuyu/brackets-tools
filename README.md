@@ -18,6 +18,7 @@ Adobe Brackets `developer tools` extension.
 		-Chinese
 		-Portuguese
 		-Russian
+		-Czechish
 	- Remove Empty Lines
 	- Remove Break Lines
 	- To Upper Case
