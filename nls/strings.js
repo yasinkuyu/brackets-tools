@@ -17,23 +17,25 @@
 /*global define */
 
 define(function (require, exports, module) {
-    
-    'use strict';
-    
+
+    "use strict";
+
     // Code that needs to display user strings should call require("strings") to load
-    // strings.js. This file will dynamically load strings.js for the specified by bracketes.locale.
-    // 
+    // strings.js. This file will dynamically load strings.js for the specified brackets.locale.
+    //
     // Translations for other locales should be placed in nls/<locale<optional country code>>/strings.js
     // Localization is provided via the i18n plugin.
     // All other bundles for languages need to add a prefix to the exports below so i18n can find them.
+    //
     // TODO: dynamically populate the local prefix list below?
     module.exports = {
         root: true,
-        'zh': true,
-        "tr": true,
+        "cs": true,
+        "de": true,
         "it": true,
         "pt": true,
-        "de": true,
-        "ru": true
+        "ru": true,
+        "tr": true,
+        "zh": true
     };
 });
