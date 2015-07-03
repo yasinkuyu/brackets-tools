@@ -33,6 +33,7 @@ define(function (require, exports, module) {
         "cs": true,
         "de": true,
         "it": true,
+        "ja": true,
         "pt": true,
         "ru": true,
         "tr": true,
