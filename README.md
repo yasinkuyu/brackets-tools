@@ -8,7 +8,7 @@ Adobe Brackets `developer tools` extension.
 
 #Features	
 	- Highlight Word Selection -> `View menu (on/off)`
-	- New Html5 Template -> `File Html5`
+	- New Html5 Template -> `File Html5` (remove -> https://github.com/yasinkuyu/brackets-newdoc)
     - Multi `Localization` 
         Translations
 		-English
@@ -88,6 +88,18 @@ The MIT License
 Brackets Inline Units Conversion Extension (px to em /em to px etc.)
 
 https://github.com/yasinkuyu/brackets-units
+
+Brackets Newdoc
+
+https://github.com/yasinkuyu/brackets-newdoc
+
+GitHub Atom editor default dark theme
+
+https://github.com/yasinkuyu/brackets-atom-dark
+
+GitHub Atom editor default light theme
+
+https://github.com/yasinkuyu/brackets-atom-light
 
 Created 2014 Yasin Kuyu - [@yasinkuyu](http://www.twitter.com/yasinkuyu)
 

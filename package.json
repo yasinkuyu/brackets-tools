@@ -3,7 +3,7 @@
     "title": "Brackets Tools",
     "description": "Brackets developer tools extension",
     "homepage": "https://github.com/yasinkuyu/brackets-tools",
-    "version": "0.2.0",
+    "version": "0.2.1",
 	"author": {
 		"name": "Yasin Kuyu",
 		"email": "yasinkuyu@gmail.com",
@@ -11,7 +11,7 @@
     },
     "author": "Yasin Kuyu <yasinkuyu@gmail.com>",
     "keywords": [
-       "Highlight Word", "Html5 Template", "Remove Empty / Break Lines", "To Upper / Lower / Title Case", "Word To Array", "Word To List", "Line To List", "Html Encode / Docode", "URL Encode / Decode", "Html Tag Remove/Strip", "Trim, Left Trim, Right Trim", "First, Last x Char Remove", "SEO Url", "Remove line numbers", "Remove duplicate lines"
+       "Highlight Word", "Remove Empty / Break Lines", "To Upper / Lower / Title Case", "Word To Array", "Word To List", "Line To List", "Html Encode / Docode", "URL Encode / Decode", "Html Tag Remove/Strip", "Trim, Left Trim, Right Trim", "First, Last x Char Remove", "SEO Url", "Remove line numbers", "Remove duplicate lines"
     ],
     "categories": ["developer", "tools", "general", "editing"],
     "dependencies": {

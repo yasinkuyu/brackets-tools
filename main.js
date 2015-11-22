@@ -23,7 +23,6 @@ define(function (require, exports, module) {
     var PreferencesManager          = brackets.getModule("preferences/PreferencesManager"),
         ExtensionUtils              = brackets.getModule("utils/ExtensionUtils"),
         wordHighlight               = require("lib/wordHighlight"),
-        newDocument                 = require("lib/newDoc"),
         stringConvert               = require("lib/stringConvert"),
         Localize                    = require("strings");
     
