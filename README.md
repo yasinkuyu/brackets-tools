@@ -47,7 +47,7 @@ Adobe Brackets `developer tools` extension.
 All page or by selecting a specific area can use the features...
 
 #Screencast
-Highlight Selection (click and ALT+F3)
+Highlight Selection (click and ALT+F3) (Mac shortcut: Ctrl+Cmd+G)
 
 ![Highlight Selection Sample](http://i57.tinypic.com/vphnr4.gif)
 
