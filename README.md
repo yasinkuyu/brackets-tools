@@ -1,6 +1,6 @@
 # Brackets Tools
 
-Adobe Brackets `developer tools` extension.
+Adobe Brackets `developer tools` extension. [@yasinkuyu](https://twitter.com/yasinkuyu)
 
 ## Installation
 * Method 1: Open the Brackets Extension Manager and search for `brackets tools`
