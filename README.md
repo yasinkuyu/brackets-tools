@@ -19,6 +19,7 @@ Adobe Brackets `developer tools` extension. [@yasinkuyu](https://twitter.com/yas
     * Portuguese
     * Russian
     * Czech
+    * Japanese
 * Remove Empty Lines
 * Remove Break Lines
 * To Upper Case
